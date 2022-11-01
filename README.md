@@ -1,7 +1,7 @@
 
 <h1 align="left">Hi, I'm Krzysztof</h1>
 <h3 align="left">Junior Frontend Developer</h3>
-<p align="left">I started programming in December 2021, on a course at the IT school "Coders Lab". I'm focusing on interface and the functionality of application. IT branch enables to develop creative thinking and is characterized by dynamic changes, both this issues interest me.  </p>
+<p align="left">I started programming during the Javascript Developer course at the CodersLab IT school, which ran from December 2021 to August 2022. Currently I'm working on React and related technologies. I focus on interface and the functionality of application. IT branch enables to develop creative thinking and is characterized by dynamic changes, both these issues interest me.  </p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
