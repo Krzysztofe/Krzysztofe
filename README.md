@@ -23,10 +23,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=krzysztofe&show_icons=true&locale=en&layout=compact" alt="krzysztofe" /></p>
 <br></br> <br></br> <br></br>
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/krzysztof-król" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="krzysztof-król" height="30" width="40" /></a>
-</p>
+<h3 align="left">Connect with me:</h3><a href="https://linkedin.com/in/krzysztof-król" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="krzysztof-król" height="30" width="40" /></a>
 
 <!--
 **Krzysztofe/Krzysztofe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
