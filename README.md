@@ -19,9 +19,9 @@
 </p>
 
 
-Within my repository, you will find a various projects containing exercises. Among them, I would like to highlight my two projects, which are pined up below.
+ ### Within my repository, you will find a various projects containing exercises. Among them, I would like to highlight my two projects, which are pined up below.
 
-The first project is <b>"Laboratory Lab" - React, TS </b>. It allows users to save, edit, and delete data related to chemical reactions. The data is stored in a <b>Firebase</b>.
+ ### The first project is <b>"Laboratory Lab" - React, TS </b>. It allows users to save, edit, and delete data related to chemical reactions. The data is stored in a <b>Firebase</b>.
 
 
   <div align="center">
@@ -29,7 +29,7 @@ The first project is <b>"Laboratory Lab" - React, TS </b>. It allows users to sa
  ![ezgif com-video-to-gif (2)](https://github.com/Krzysztofe/Krzysztofe/assets/96065197/a8ef30ba-5584-4c0c-8c78-64bc230f17ed)
 </div>
 
-The second project is <b> "Transactions" - Vanilla JS </b>. It retrieves data from a <b>MY JSON Server</b> and implements logging functionality using <b>Local Storage </b>. This project serves as a demonstration of handling data in the form of charts and table as well as performing operations without the need for additional frameworks or libraries.
+ ### The second project is <b> "Transactions" - Vanilla JS </b>. It retrieves data from a <b>MY JSON Server</b> and implements logging functionality using <b>Local Storage </b>. This project serves as a demonstration of handling data in the form of charts and table as well as performing operations without the need for additional frameworks or libraries.
 
 
   <div align="center">
@@ -37,7 +37,7 @@ The second project is <b> "Transactions" - Vanilla JS </b>. It retrieves data fr
 ![ezgif com-video-to-gif](https://github.com/Krzysztofe/Krzysztofe/assets/96065197/c66f7a68-40de-48fb-b158-f7b52c2646ba)
 </div>
 
-<b>For more detailed information on these projects please refer to the respective README files associated with each project. </b>
+ ### For more detailed information on these projects please refer to the respective README files associated with each project. </b>
 
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=krzysztofe&" alt="krzysztofe" /></p>
