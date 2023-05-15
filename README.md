@@ -21,6 +21,9 @@ Within my repository, you will find a various projects containing exercises. Amo
 
 The first project is <b>"Laboratory Lab" - React, TS </b>. It allows users to save, edit, and delete data related to chemical reactions. The data is stored in a <b>Firebase</b>.
 
+![ezgif com-video-to-gif (1)](https://github.com/Krzysztofe/Krzysztofe/assets/96065197/80930af4-6250-47e5-a2c1-720c57331b78)
+
+
 The second project is <b> "Transactions" - Vanilla JS </b>. It retrieves data from a <b>MY JSON Server</b> and implements logging functionality using <b>Local Storage </b>. This project serves as a demonstration of handling data in the form of charts and table as well as performing operations without the need for additional frameworks or libraries.
 
 ![ezgif com-video-to-gif](https://github.com/Krzysztofe/Krzysztofe/assets/96065197/c66f7a68-40de-48fb-b158-f7b52c2646ba)
