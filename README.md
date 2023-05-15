@@ -29,10 +29,10 @@
  ![ezgif com-video-to-gif (2)](https://github.com/Krzysztofe/Krzysztofe/assets/96065197/a8ef30ba-5584-4c0c-8c78-64bc230f17ed)
 </div>
 
- ### The second project is <b> "Transactions" - Vanilla JS </b>. It retrieves data from a <b>MY JSON Server</b> and implements logging functionality using <b>Local Storage </b>. This project serves as a demonstration of handling data in the form of charts and table as well as performing operations without the need for additional frameworks or libraries.
+ ### The second project is <b> "Transactions" - Vanilla JS </b>. It retrieves data from a <b>MY JSON Server</b> and implements logging functionality using <b>Local Storage</b>. This project serves as a demonstration of data in the form of charts and table.
 
 
-  <div align="center">
+  <div align="center"> 
   
 ![ezgif com-video-to-gif](https://github.com/Krzysztofe/Krzysztofe/assets/96065197/c66f7a68-40de-48fb-b158-f7b52c2646ba)
 </div>
