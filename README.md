@@ -1,21 +1,14 @@
 
 <h1 align="left">Hi, I'm Krzysztof</h1>
 <h3 align="left">Junior Frontend Developer</h3>
-<p align="left">I started programming during the Javascript Developer course at the CodersLab IT school, which ran from December 2021 to August 2022. Currently I'm working on React and related technologies. I focus on interface and the functionality of application. IT branch enables to develop creative thinking and is characterized by dynamic changes, both these issues interest me.  </p>
 
-
-
+<p align="left"> In 2021, I embarked on a programming journey with a focus on frontend development. Starting with the fundamentals of HTML, CSS, and JavaScript, I have now progressed to working with React and related technologies. <p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
   
   
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
-   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
-   <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a>
-  
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
+  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a><a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
   
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a>  <img src="https://user-images.githubusercontent.com/96065197/208308915-21c4016e-4e01-415c-884c-84ca2ed033cc.png" alt="rquerry" width="60" height="40"/> <img src="https://user-images.githubusercontent.com/96065197/208310354-6e9cc72b-bddf-45b1-bf7e-14a9d89543d5.png" alt="rquerry" width="60" height="40"/> 
   
@@ -24,8 +17,13 @@
 </p>
 
 
+Within my repository, you will find various projects containing exercises. Among them, I would like to highlight my two most significant projects, which are pined up below.
 
+The first project is <b>"Laboratory Lab" - React, TS </b>. It allows users to save, edit, and delete data related to chemical reactions. The data is stored in a <b>Firebase</b>.
 
+The second project is <b> "Transactions" - Vanilla JS </b>. It retrieves data from a <b>MY JSON Server</b> and implements logging functionality using <b>Local Storage </b>. This project serves as a demonstration of handling data in the form of charts and table as well as performing operations without the need for additional frameworks or libraries.
+
+<b>For more detailed information on these projects please refer to the respective readme files associated with each project. </b>
 
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=krzysztofe&" alt="krzysztofe" /></p>
