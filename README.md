@@ -17,7 +17,7 @@
 </p>
 
 
-Within my repository, you will find a various projects containing exercises. Among them, I would like to highlight my two most significant projects, which are pined up below.
+Within my repository, you will find a various projects containing exercises. Among them, I would like to highlight my two projects, which are pined up below.
 
 The first project is <b>"Laboratory Lab" - React, TS </b>. It allows users to save, edit, and delete data related to chemical reactions. The data is stored in a <b>Firebase</b>.
 
