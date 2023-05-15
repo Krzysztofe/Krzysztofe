@@ -23,7 +23,7 @@ The first project is <b>"Laboratory Lab" - React, TS </b>. It allows users to sa
 
 The second project is <b> "Transactions" - Vanilla JS </b>. It retrieves data from a <b>MY JSON Server</b> and implements logging functionality using <b>Local Storage </b>. This project serves as a demonstration of handling data in the form of charts and table as well as performing operations without the need for additional frameworks or libraries.
 
-<b>For more detailed information on these projects please refer to the respective readme files associated with each project. </b>
+<b>For more detailed information on these projects please refer to the respective README files associated with each project. </b>
 
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=krzysztofe&" alt="krzysztofe" /></p>
