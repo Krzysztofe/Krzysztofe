@@ -1,12 +1,12 @@
 
 <h1 align="left">Hi, I'm Krzysztof</h1>
-<h3 align="left">Junior Frontend Developer</h3>
+<h2 align="left">Junior Frontend Developer</h3>
 
 
-  In 2021, I started a programming journey with a focus on frontend development. Starting with the fundamentals of HTML, CSS, and JavaScript, I have now progressed to working with React and related technologies.   
+ ### In 2021, I started a programming journey with a focus on frontend development. Starting with the fundamentals of HTML, CSS, and JavaScript, I have now progressed to working with React and related technologies.   
 
 
-<h3 align="left">Languages and Tools:</h3>
+<h2 align="left">Languages and Tools:</h3>
 <p align="left"> 
   
   
