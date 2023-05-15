@@ -19,7 +19,7 @@
 </p>
 
 
- ### Within my repository, you will find a various projects containing exercises. Among them, I would like to highlight my two projects, which are pined up below.
+ ### Within my repository, you will find a various projects containing exercises. Among them, I would like to highlight two projects, which are pined up below.
 
  ### The first project is <a href = "https://krzysztofe.github.io/Laboratory_Lab/"> "Laboratory Lab" - React, TS </a>. It allows users to save, edit, and delete data related to chemical reactions. The data is stored in a <b>Firebase</b>.
 
