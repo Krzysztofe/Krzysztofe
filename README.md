@@ -29,7 +29,7 @@
  ![ezgif com-video-to-gif (2)](https://github.com/Krzysztofe/Krzysztofe/assets/96065197/a8ef30ba-5584-4c0c-8c78-64bc230f17ed)
 </div>
 
- ### The second project is <a href="https://transactions.pages.dev/"> "Transactions" - Vanilla JS </a>. It retrieves data from a <b>MY JSON Server</b> and implements logging functionality using <b>Local Storage</b>. This project presents data in the form of charts and table.
+ ### The second project is <a href="https://transactions.pages.dev/"> "Transactions" - JS </a>. It retrieves data from a <b>MY JSON Server</b> and implements logging functionality using <b>Local Storage</b>. This project presents data in the form of charts and table.
 
 
   <div align="center"> 
