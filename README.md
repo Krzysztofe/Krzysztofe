@@ -41,6 +41,7 @@
 ![ezgif com-video-to-gif](https://github.com/Krzysztofe/Krzysztofe/assets/96065197/c66f7a68-40de-48fb-b158-f7b52c2646ba)
 </div>
 
+<br><br>
  ### For more detailed information on these projects please refer to the respective README files associated with each project pined up below. :point_down: :point_down: :point_down:  </b>
 
 <br><br><br>
