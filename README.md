@@ -1,5 +1,5 @@
 
-<h1 align="left">Hi, I'm Krzysztof</h1>
+<h1 align="left">Hi, I'm Krzysztof</h1> 
 <h2 align="left">Junior Frontend Developer</h3>
 
 
@@ -15,11 +15,13 @@
  
  <br><br><br>
 
- ### Within my repository, you will find a various projects containing exercises. Among them, I would like to highlight two projects, which are pined up below.
+ ### Within my repository, you will find a various projects containing exercises. Among them, I would like to highlight two projects, which are pined up below. :point_down: :point_down: :point_down:
  
+ 
+ <br><br><br>
 
 
-<br><br><br>
+
 
  ### The first project is <a href = "https://krzysztofe.github.io/Laboratory_Lab/"> "Laboratory Lab" - React, TS</a>. It allows users to save, edit, and delete data related to chemical reactions. The data is stored in a <b>Firebase</b>.
 
@@ -39,8 +41,9 @@
 ![ezgif com-video-to-gif](https://github.com/Krzysztofe/Krzysztofe/assets/96065197/c66f7a68-40de-48fb-b158-f7b52c2646ba)
 </div>
 
- ### For more detailed information on these projects please refer to the respective README files associated with each project pined up below. </b>
+ ### For more detailed information on these projects please refer to the respective README files associated with each project pined up below. :point_down: :point_down: :point_down:  </b>
 
+<br><br><br>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=krzysztofe&" alt="krzysztofe" /></p>
 
