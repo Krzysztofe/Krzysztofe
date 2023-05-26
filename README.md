@@ -3,7 +3,7 @@
 <h2 align="left">Junior Frontend Developer</h3>
 
 
- ### In 2021, I started a programming journey with a focus on frontend development. Starting with the fundamentals of HTML, CSS, and JavaScript, I have now progressed to working with React and related technologies.   
+  In 2021, I started a programming journey with a focus on frontend development. Starting with the fundamentals of HTML, CSS, and JavaScript, I have now progressed to working with React and related technologies.   
 
 
 <h2 align="left">Languages and tools I use:</h3>
@@ -18,12 +18,12 @@
  ### Within my repository, you will find a various projects containing exercises. Among them, I would like to highlight two projects, which are pined up below. :point_down: :point_down: :point_down:
  
  
- <br><br><br>
+ <br>
 
 
 
 
- ### The first project is <a href = "https://krzysztofe.github.io/Laboratory_Lab/"> "Laboratory Lab" - React, TS</a>. It allows users to save, edit, and delete data related to chemical reactions. The data is stored in a <b>Firebase</b>.
+ The first project is <a href = "https://krzysztofe.github.io/Laboratory_Lab/"> "Laboratory Lab" - React, TS</a>. It allows users to save, edit, and delete data related to chemical reactions. The data is stored in a <b>Firebase</b>.
 
 
   <div align="center">
@@ -33,7 +33,7 @@
 
 <br><br><br>
 
- ### The second project is <a href="https://transactions.pages.dev/"> "Transactions" - JS</a>. It retrieves data from a <b>MY JSON Server</b> and implements logging functionality using <b>Local Storage</b>. This project presents data in the form of charts and table.
+ The second project is <a href="https://transactions.pages.dev/"> "Transactions" - JS</a>. It retrieves data from a <b>MY JSON Server</b> and implements logging functionality using <b>Local Storage</b>. This project presents data in the form of charts and table.
 
 
   <div align="center"> 
