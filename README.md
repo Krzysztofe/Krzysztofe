@@ -36,7 +36,7 @@
  <div align="center">
 <img src="https://github.com/Krzysztofe/godziny/assets/96065197/2fd80bb0-7706-483a-99ef-f6622065a0d6" width="500" alt="Desktop Screenshot" margin="20">
 </div>
-
+<br><br><br>
  The second project is <a href = "https://krzysztofe.github.io/Laboratory_Lab/"> "Laboratory Lab" - React, TS</a>. It allows users to save, edit, and delete data related to chemical reactions. The data is stored in a <b>Firebase</b>.
 
 
