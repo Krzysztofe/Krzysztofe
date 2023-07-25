@@ -25,15 +25,19 @@
  
  <br><br><br>
 
- ### Within my repository, you will find a various projects containing exercises. Among them, I would like to highlight two projects, which are pined up below. :point_down: :point_down: :point_down:
+ ### Within my repository, you will find a various projects containing exercises. Among them, I would like to highlight three projects, which are pined up below. :point_down: :point_down: :point_down:
  
  
  <br>
 
 
+ The first project is <a href = "https://krzysztofe.github.io/godziny/"> "Godziny" - React, TS</a>. Designed for the presidium of a trade union's workers council to plan the so-called union hours. The data is stored in a <b>Firebase</b>.
 
+ <div align="center">
+<img src="https://github.com/Krzysztofe/godziny/assets/96065197/2fd80bb0-7706-483a-99ef-f6622065a0d6" width="500" alt="Desktop Screenshot" margin="20">
+</div>
 
- The first project is <a href = "https://krzysztofe.github.io/Laboratory_Lab/"> "Laboratory Lab" - React, TS</a>. It allows users to save, edit, and delete data related to chemical reactions. The data is stored in a <b>Firebase</b>.
+ The second project is <a href = "https://krzysztofe.github.io/Laboratory_Lab/"> "Laboratory Lab" - React, TS</a>. It allows users to save, edit, and delete data related to chemical reactions. The data is stored in a <b>Firebase</b>.
 
 
   <div align="center">
@@ -43,7 +47,7 @@
 
 <br><br><br>
 
- The second project is <a href="https://transactions.pages.dev/"> "Transactions" - JS</a>. It retrieves data from a <b>MY JSON Server</b> and implements logging functionality using <b>Local Storage</b>. This project presents data in the form of charts and table.
+ The third project is <a href="https://transactions.pages.dev/"> "Transactions" - JS</a>. It retrieves data from a <b>MY JSON Server</b> and implements logging functionality using <b>Local Storage</b>. This project presents data in the form of charts and table.
 
 
   <div align="center"> 
