@@ -31,7 +31,7 @@
  <br>
 
 
- The first project is <a href = "https://krzysztofe.github.io/godziny/"> "Godziny" - React, TS</a>. Designed for the presidium of a trade union's workers council to plan the so-called union hours. The data is stored in a <b>Firebase</b>.
+ The first project is <a href = "https://krzysztofe.github.io/godziny/"> "Godziny" - React, TS</a>. Designed for the presidium of a trade union's workers council to plan the so-called union hours. Commercial project currently being tested by future users.
 
  <div align="center">
 <img src="https://github.com/Krzysztofe/godziny/assets/96065197/2fd80bb0-7706-483a-99ef-f6622065a0d6" width="500" alt="Desktop Screenshot" margin="20">
