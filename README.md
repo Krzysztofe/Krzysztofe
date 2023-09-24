@@ -25,19 +25,27 @@
  
  <br><br><br>
 
- ### Within my repository, you will find a various projects containing exercises. Among them, I would like to highlight three projects, which are pined up below. :point_down: :point_down: :point_down:
+ ### Within my repository, you will find a various projects containing exercises. Among them, I would like to highlight four projects, which are pined up below. :point_down: :point_down: :point_down:
  
+ <a href = "http://ankieta.ozzip.pl/"> "Deklaracja" - React, TS</a> is a commercial project created for the Workers' Union's use. Thanks to the application, employees can join the trade union. Commercial project currently being tested by future users.
+
+  <div align="center">
+    
+![ezgif com-video-to-gif](https://github.com/Krzysztofe/Krzysztofe/assets/96065197/5a51a760-06fc-47e5-adb6-93aaa3250b26)
+</div>
+
+
  
  <br>
 
 
- The first project is <a href = "https://krzysztofe.github.io/godziny/"> "Godziny" - React, TS</a>. Designed for the presidium of a trade union's workers council to plan the so-called union hours. Commercial project currently being tested by future users.
+ <a href = "https://krzysztofe.github.io/godziny/"> "Godziny" - React, TS</a> designed for the presidium of a trade union's workers council to plan the so-called union hours. Commercial project currently being tested by future users.
 
  <div align="center">
 <img src="https://github.com/Krzysztofe/Krzysztofe/assets/96065197/e4bd9f0a-370f-4b86-a503-1030707c249b" width="500" alt="Desktop Screenshot" margin="20"> 
 </div>
 <br><br><br>
- The second project is <a href = "https://krzysztofe.github.io/Laboratory_Lab/"> "Laboratory Lab" - React, TS</a>. It allows users to save, edit, and delete data related to chemical reactions. The data is stored in a <b>Firebase</b>.
+<a href = "https://krzysztofe.github.io/Laboratory_Lab/"> "Laboratory Lab" - React, TS</a> allows users to save, edit, and delete data related to chemical reactions. The data is stored in a <b>Firebase</b>.
 
 
   <div align="center">
@@ -47,7 +55,7 @@
 
 <br><br><br>
 
- The third project is <a href="https://transactions.pages.dev/"> "Transactions" - JS</a>. It retrieves data from a <b>MY JSON Server</b> and implements logging functionality using <b>Local Storage</b>. This project presents data in the form of charts and table.
+ <a href="https://transactions.pages.dev/"> "Transactions" - JS</a> retrieves data from a <b>MY JSON Server</b> and implements logging functionality using <b>Local Storage</b>. This project presents data in the form of charts and table.
 
 
   <div align="center"> 
