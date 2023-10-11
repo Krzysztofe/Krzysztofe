@@ -27,7 +27,7 @@
 
  ### Within my repository, you will find a various projects containing exercises. Among them, I would like to highlight four projects, which are pined up below. :point_down: :point_down: :point_down:
  
- <a href = "https://deklaracja.ozzip.pl/"> "Deklaracja" - React, TS</a> is a commercial project created for the Workers' Union's use. Thanks to the application, employees can join the trade union. Project currently being tested by future users.
+ <a href = "https://deklaracja.ozzip.pl/"> "Deklaracja" - React, TS</a> is a commercial project created for the Workers' Union's use. Thanks to the application, employees can join the trade union.
 
   <div align="center">
     
