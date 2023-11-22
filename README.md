@@ -9,7 +9,7 @@
 <h2 align="left">Languages and tools I use:</h3>
 <p align="left"> 
   
-  <div margin="50">
+  <div>
    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> 
@@ -18,6 +18,7 @@
  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> 
     <img src = "https://github.com/Krzysztofe/Krzysztofe/assets/96065197/8f07f96d-8bf6-40d9-9365-93228d32d792" width="40" height="40"/>
   </div>
+  <br>
 <div>
    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> 
@@ -26,7 +27,7 @@
   <img src="https://user-images.githubusercontent.com/96065197/208308915-21c4016e-4e01-415c-884c-84ca2ed033cc.png" alt="rquerry" width="60" height="40"/> 
   <img src="https://user-images.githubusercontent.com/96065197/208310354-6e9cc72b-bddf-45b1-bf7e-14a9d89543d5.png" alt="rquerry" width="60" height="40"/>
 </div>
-
+<br>
   
   <div>
    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> 
