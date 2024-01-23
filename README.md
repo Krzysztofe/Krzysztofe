@@ -56,8 +56,11 @@
  <a href = "https://krzysztofe.github.io/godziny/"> "Godziny" - React, TS</a> designed for the presidium of a trade union's workers council to plan the so-called union hours. Commercial project currently being tested by future users.
 
  <div align="center">
-<img src="https://github.com/Krzysztofe/Krzysztofe/assets/96065197/e4bd9f0a-370f-4b86-a503-1030707c249b" width="500" alt="Desktop Screenshot" margin="20"> 
+<img src="https://github.com/Krzysztofe/Krzysztofe/assets/96065197/58b41827-7c82-40d7-8d08-a46f6d1c5446" width="500" alt="Desktop Screenshot" margin="20"> 
 </div>
+
+
+
 <br><br><br>
 <a href = "https://krzysztofe.github.io/Laboratory_Lab/"> "Laboratory Lab" - React, TS</a> allows users to save, edit, and delete data related to chemical reactions. The data is stored in a <b>Firebase</b>.
 
