@@ -43,6 +43,8 @@
  
  <br><br><br>
 
+Currently, I am working on a aplication  <a href = "https://xd.adobe.com/view/6a376776-a145-4927-b9d3-1041deb5d829-3f64/specs/"> Collections </a>
+
  ### Within my repository, you will find a various projects containing exercises. Among them, I would like to highlight four projects, which are pined up below. :point_down: :point_down: :point_down:
  
  <a href = "https://deklaracja.ozzip.pl/"> "Deklaracja" - React, TS</a> is a commercial project created for the Workers' Union's use. Thanks to the application, employees can join the trade union.
