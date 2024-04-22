@@ -40,7 +40,7 @@
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
    <img src="https://github.com/Krzysztofe/Krzysztofe/assets/96065197/77c32d08-fd0b-4691-8a53-34497044fe1b" alt="git" width="70" height="40"/>
  <img src= "https://github.com/Krzysztofe/Krzysztofe/assets/96065197/f245503f-a7f1-42b8-ba55-cb84551962c6" alt="git" width="80" height="30"/>
- <img src= "https://github.com/Krzysztofe/Krzysztofe/assets/96065197/29126289-06ef-4411-ade4-faa6a76d80fa" alt="git" width="67" height="40"/>
+<img src= "https://github.com/Krzysztofe/Krzysztofe/assets/96065197/7292dc1f-3e6f-4f57-83fe-e3f22a697e79" alt="git" width="40" height="35"/>
   </div>
 </p>   
  
