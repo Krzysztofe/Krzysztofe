@@ -46,7 +46,7 @@
  
  <br><br><br>
 
-Currently, I am working on a aplication Contributions <a href = "https://xd.adobe.com/view/6a376776-a145-4927-b9d3-1041deb5d829-3f64/specs/"> graphical project </a>  /  <a href = "https://github.com/Krzysztofe/contributions"> repository </a>
+Currently, I am working on a aplication Contributions  <a href = "https://github.com/Krzysztofe/contributions"> repository </a>
 
  ### Within my repository, you will find a various projects containing exercises. Among them, I would like to highlight four projects, which are pined up below. :point_down: :point_down: :point_down:
  
