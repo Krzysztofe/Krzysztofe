@@ -62,6 +62,14 @@
 </div>
 
  </br>
+
+ <a href = "https://krzysztofe.github.io/godziny/"> "Godziny" - React, TS</a> designed for the presidium of a trade union's workers council to plan the so-called union hours. Commercial project currently being tested by future users.
+
+ <div align="center">
+<img src="https://github.com/Krzysztofe/Krzysztofe/assets/96065197/5f4d71f5-fac8-457f-8c31-a30e38c3a8da" width="500" alt="Desktop Screenshot" margin="20"> 
+</div>
+
+ 
  
  <a href = "https://deklaracja.ozzip.pl/"> "Deklaracja" - React, TS</a> is a commercial project created for the Workers' Union's use. Thanks to the application, employees can join the trade union.
 
