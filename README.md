@@ -46,14 +46,19 @@
  
  <br><br><br>
 
-Currently, I am working on a aplication Contributions  <a href = "https://github.com/Krzysztofe/contributions"> repository </a>
+
 
  ### Within my repository, you will find a various projects containing exercises. Among them, I would like to highlight four projects, which are pined up below. :point_down: :point_down: :point_down:
 
- <a href = "https://krzysztofe.github.io/godziny/"> "Godziny" - React, TS</a> is commercial project designed for the presidium of a trade union's workers council to plan the so-called union hours. 
+
+
+
+ 
+
+ <a href = "https://skladki.ozzip.pl/"> "Contributions" - JS/TS</a> is commercial project for tracking worker’s union membership contribtions.
 
  <div align="center">
-<img src="https://github.com/Krzysztofe/Krzysztofe/assets/96065197/5f4d71f5-fac8-457f-8c31-a30e38c3a8da" width="500" alt="Desktop Screenshot" margin="20"> 
+<img src="https://github.com/Krzysztofe/Krzysztofe/assets/96065197/a9e4aad3-70d8-4ce0-997c-d0f1d8dc4c0c" width="500" alt="Desktop Screenshot" margin="20"> 
 </div>
 
  </br>
@@ -82,13 +87,7 @@ Currently, I am working on a aplication Contributions  <a href = "https://github
 
 <br><br><br>
 
- <a href="https://transactions.pages.dev/"> "Transactions" - JS</a> retrieves data from a <b>MY JSON Server</b> and implements logging functionality using <b>Local Storage</b>. This project presents data in the form of charts and table.
 
-
-  <div align="center"> 
-  
-![ezgif com-video-to-gif](https://github.com/Krzysztofe/Krzysztofe/assets/96065197/c66f7a68-40de-48fb-b158-f7b52c2646ba)
-</div>
 
 <br><br>
  ### For more detailed information on these projects please refer to the respective README files associated with each project pined up below. :point_down: :point_down: :point_down:  </b>
