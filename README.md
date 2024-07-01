@@ -25,6 +25,9 @@
 <div>
    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> 
+    <img src="https://github.com/Krzysztofe/Krzysztofe/assets/96065197/b9346dfc-f3dd-40ad-b3ee-cdf10fc1c6af" alt="typescript" width="40" height="40"/> 
+
+
    <br>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/>  
@@ -33,8 +36,9 @@
   <img src="https://user-images.githubusercontent.com/96065197/208308915-21c4016e-4e01-415c-884c-84ca2ed033cc.png" alt="rquerry" width="60" height="40"/> 
   <img src="https://user-images.githubusercontent.com/96065197/208310354-6e9cc72b-bddf-45b1-bf7e-14a9d89543d5.png" alt="rquerry" width="60" height="40"/>
 </div>
+
 <br>
-  
+
   <div>
    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> 
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
