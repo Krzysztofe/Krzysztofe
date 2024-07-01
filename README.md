@@ -25,7 +25,7 @@
 <div>
    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> 
-    <img src="https://github.com/Krzysztofe/Krzysztofe/assets/96065197/b9346dfc-f3dd-40ad-b3ee-cdf10fc1c6af" alt="typescript" width="40" height="40"/> 
+    <img src="https://github.com/Krzysztofe/Krzysztofe/assets/96065197/f4e98b12-4438-4ca3-850e-2072a310bad3" alt="OOP" width="40" height="40"/> 
 
 
    <br>
