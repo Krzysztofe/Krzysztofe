@@ -52,7 +52,7 @@
 
 
 
- ### Within my repository, you will find a various projects containing exercises. Among them, I would like to highlight four projects, which are pined up below. :point_down: :point_down: :point_down:
+ ### Within my repository, you will find a various projects. Among them, I would like to highlight four projects, which are pined up below. :point_down: :point_down: :point_down:
 
 
 
