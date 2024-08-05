@@ -74,7 +74,7 @@
 
  
  
- <a href = "https://deklaracja.ozzip.pl/"> "Deklaracja" - React, TS</a> is a commercial project created for the Workers' Union's use. Thanks to the application, employees can join the trade union.
+ <a href = "https://deklaracja.ozzip.pl/"> "Deklaracja" - React, TS</a> is a commercial project created for the Workers' Union's use. Thanks to the application, employees can join the trade union.  <a href = "https://github.com/Krzysztofe/deklaracja"> "Deklaracja" - Repository</a>
 
   <div align="center">
     
