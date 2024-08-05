@@ -52,12 +52,11 @@
 
 
 
- ### Within my repository, you will find a various projects. Among them, I would like to highlight four projects, which are pined up below. :point_down: :point_down: :point_down:
+ ### Within my repository, you will find various projects. Among them, I would like to highlight three projects, which are pinned below. :point_down: :point_down: :point_down:
 
+ ### The following three projects are commercial and were commissioned by a labor union. They were created after consultations with union activists, and the 'Declaration' project was additionally reviewed by a union lawyer. All projects are in practical use.
 
-
-
- 
+ ### Each attached project description contains a link to the repository with more information about each project.
 
  <a href = "https://skladki.ozzip.pl/"> "Contributions" - JS/TS</a> is commercial project for tracking worker’s union membership contribtions.
 
@@ -88,14 +87,7 @@
 
 
 
-<br><br><br>
-<a href = "https://krzysztofe.github.io/Laboratory_Lab/"> "Laboratory Lab" - React, TS</a> allows users to save, edit, and delete data related to chemical reactions. The data is stored in a <b>Firebase</b>.
 
-
-  <div align="center">
-
- ![ezgif com-video-to-gif (2)](https://github.com/Krzysztofe/Krzysztofe/assets/96065197/a8ef30ba-5584-4c0c-8c78-64bc230f17ed)
-</div>
 
 <br><br><br>
 
