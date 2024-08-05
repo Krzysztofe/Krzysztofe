@@ -58,7 +58,7 @@
 
  ### Each attached project description contains a link to the repository with more information about each project.
 
- <a href = "https://skladki.ozzip.pl/"> "Contributions" - JS/TS</a> is commercial project for tracking worker’s union membership contribtions.
+ <a href = "https://skladki.ozzip.pl/"> "Contributions" - JS/TS</a> is commercial project for tracking worker’s union membership contribtions. <a href = "https://github.com/Krzysztofe/contributions"> "Contributions" - Repository </a>
 
  <div align="center">
 <img src="https://github.com/Krzysztofe/Krzysztofe/assets/96065197/a9e4aad3-70d8-4ce0-997c-d0f1d8dc4c0c" width="500" alt="Desktop Screenshot" margin="20"> 
