@@ -58,7 +58,7 @@
 
  ### Each attached project description contains a link to the repository with more information.
 
- <a href = "https://skladki.ozzip.pl/"> "Contributions" - JS/TS</a> is commercial project for tracking worker’s union membership contribtions. <a href = "https://github.com/Krzysztofe/contributions"> "Contributions" --> Repository </a>
+ <a href = "https://skladki.ozzip.pl/"> Demo: "Contributions" - JS/TS</a> is commercial project for tracking worker’s union membership contribtions. <a href = "https://github.com/Krzysztofe/contributions"> "Contributions" --> Repository </a>
 
  <div align="center">
 <img src="https://github.com/Krzysztofe/Krzysztofe/assets/96065197/a9e4aad3-70d8-4ce0-997c-d0f1d8dc4c0c" width="500" alt="Desktop Screenshot" margin="20"> 
@@ -66,7 +66,7 @@
 
  </br>
 
- <a href = "https://krzysztofe.github.io/godziny/"> "Godziny" - React, TS</a> is commercial project designed for the presidium of a trade union's workers council to plan the so-called union hours.  <a href = "https://github.com/Krzysztofe/godziny"> "Godziny" --> Repository</a>
+ <a href = "https://krzysztofe.github.io/godziny/"> Demo: "Godziny" - React, TS</a> is commercial project designed for the presidium of a trade union's workers council to plan the so-called union hours.  <a href = "https://github.com/Krzysztofe/godziny"> "Godziny" --> Repository</a>
 
  <div align="center">
 <img src="https://github.com/Krzysztofe/Krzysztofe/assets/96065197/5f4d71f5-fac8-457f-8c31-a30e38c3a8da" width="500" alt="Desktop Screenshot" margin="20"> 
@@ -74,7 +74,7 @@
 
  
  
- <a href = "https://deklaracja.ozzip.pl/"> "Deklaracja" - React, TS</a> is a commercial project created for the Workers' Union's use. Thanks to the application, employees can join the trade union.  <a href = "https://github.com/Krzysztofe/deklaracja"> "Deklaracja" --> Repository</a>
+ <a href = "https://deklaracja.ozzip.pl/"> Production: "Deklaracja" - React, TS</a> is a commercial project created for the Workers' Union's use. Thanks to the application, employees can join the trade union.  <a href = "https://github.com/Krzysztofe/deklaracja"> "Deklaracja" --> Repository</a>
 
   <div align="center">
     
