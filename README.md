@@ -56,7 +56,7 @@
 
  ### The following three projects are commercial and were commissioned by a labor union. They were created after consultations with union activists, and the 'Declaration' project was additionally reviewed by a union lawyer. All projects are in practical use.
 
- ### Each attached project description contains a link to the repository with more information about each project.
+ ### Each attached project description contains a link to the repository with more information.
 
  <a href = "https://skladki.ozzip.pl/"> "Contributions" - JS/TS</a> is commercial project for tracking worker’s union membership contribtions. <a href = "https://github.com/Krzysztofe/contributions"> "Contributions" --> Repository </a>
 
