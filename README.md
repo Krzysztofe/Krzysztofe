@@ -13,6 +13,8 @@
    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
    <img src="https://github.com/user-attachments/assets/7a953ff2-de68-4d2f-a455-e790ca6e9dbe" alt="css3" width="40" height="40"/> 
+       <img src="https://github.com/user-attachments/assets/1c23069e-20d7-41ae-8cc9-8b26c480ae39" alt="css3" width="30" height="40"/>
+    
   </div>
       <br>
     <div>   
