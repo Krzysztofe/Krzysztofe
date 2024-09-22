@@ -39,12 +39,18 @@
 
 <br>
 
+  <img src="https://github.com/user-attachments/assets/52f34a30-5ed1-4ee0-8238-80c622295bd4" alt="rquerry" width="60" height="60"/>
+
+
+<br>
+
   <div>
    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> 
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
    <img src="https://github.com/Krzysztofe/Krzysztofe/assets/96065197/77c32d08-fd0b-4691-8a53-34497044fe1b" alt="git" width="70" height="40"/>
  <img src= "https://github.com/Krzysztofe/Krzysztofe/assets/96065197/f245503f-a7f1-42b8-ba55-cb84551962c6" alt="git" width="80" height="30"/>
 <img src= "https://github.com/Krzysztofe/Krzysztofe/assets/96065197/7292dc1f-3e6f-4f57-83fe-e3f22a697e79" alt="git" width="40" height="35"/>
+     <img src= "https://github.com/user-attachments/assets/1f17bca0-bd7a-494e-bc9f-ec78acfe421a" alt="git" width="80" height="45"/>
   </div>
 </p>   
  
