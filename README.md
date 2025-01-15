@@ -64,6 +64,10 @@
  <img src= "https://github.com/Krzysztofe/Krzysztofe/assets/96065197/f245503f-a7f1-42b8-ba55-cb84551962c6" alt="git" width="80" height="30"/>
 <img src= "https://github.com/Krzysztofe/Krzysztofe/assets/96065197/7292dc1f-3e6f-4f57-83fe-e3f22a697e79" alt="git" width="40" height="35"/>
      <img src= "https://github.com/user-attachments/assets/1f17bca0-bd7a-494e-bc9f-ec78acfe421a" alt="git" width="80" height="45"/>
+
+
+ <img src= "https://github.com/user-attachments/assets/1103773e-c36f-407f-9fe4-9b8e1556a5b8" alt="git" width="40" height="40"/>
+    
   </div>
 </p>   
  
