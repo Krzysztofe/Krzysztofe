@@ -3,8 +3,9 @@
 <h2 align="left">Frontend Developer</h3>
 
 
-  In 2021, I started a programming journey with a focus on frontend development. Starting with the fundamentals of HTML, CSS, and JavaScript, I have now progressed to working with React and related technologies.   
+Passionate and detail-oriented Frontend Developer with experience in developing and maintaining e-commerce platforms, web applications, and custom business solutions. Proficient in React, TypeScript, Redux, Zustand, and modern UI frameworks, with a strong ability to create seamless and efficient user experiences. Adept at problem-solving, collaborating with frontend and backend teams.
 
+Currently employed at Brands Manago, working on e-commerce projects, collaborating with cross-functional teams, and optimizing web solutions. Successfully delivered multiple commercial projects for labor unions as a freelancer, covering membership tracking, working hours management, and online registration systems.
 
 <h2 align="left">Languages and tools I use:</h3>
 <p align="left"> 
