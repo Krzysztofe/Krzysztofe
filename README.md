@@ -43,7 +43,7 @@ Currently employed at Brands Manago, working on e-commerce projects, collaborati
   <img src="https://user-images.githubusercontent.com/96065197/208310354-6e9cc72b-bddf-45b1-bf7e-14a9d89543d5.png" alt="rquerry" width="60" height="40"/>
 </div>
 <br>
-  <img src="https://github.com/user-attachments/assets/034f5a59-9419-497b-bbd2-8b625d504560" alt="next" width="120" height="40"/>
+  <img src="https://github.com/user-attachments/assets/034f5a59-9419-497b-bbd2-8b625d504560" alt="next" width="100" height="30"/>
   <br>
 <br>
 <div>
