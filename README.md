@@ -33,7 +33,7 @@ Currently employed at Brands Manago, working on e-commerce projects, collaborati
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> 
     <img src="https://github.com/Krzysztofe/Krzysztofe/assets/96065197/f4e98b12-4438-4ca3-850e-2072a310bad3" alt="OOP" width="40" height="40"/> 
 
-
+<br>
    <br>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/>  
@@ -42,7 +42,9 @@ Currently employed at Brands Manago, working on e-commerce projects, collaborati
   <img src="https://user-images.githubusercontent.com/96065197/208308915-21c4016e-4e01-415c-884c-84ca2ed033cc.png" alt="rquerry" width="60" height="40"/> 
   <img src="https://user-images.githubusercontent.com/96065197/208310354-6e9cc72b-bddf-45b1-bf7e-14a9d89543d5.png" alt="rquerry" width="60" height="40"/>
 </div>
-
+<br>
+  <img src="https://github.com/user-attachments/assets/034f5a59-9419-497b-bbd2-8b625d504560" alt="next" width="120" height="40"/>
+  <br>
 <br>
 <div>
   <img src="https://github.com/user-attachments/assets/75d45999-8498-45fc-b41d-f12406cccec0" alt="rquerry" width="50" height="50"/>   
@@ -53,7 +55,7 @@ Currently employed at Brands Manago, working on e-commerce projects, collaborati
 </div>
 <br>
 
-  <img src="https://github.com/user-attachments/assets/52f34a30-5ed1-4ee0-8238-80c622295bd4" alt="rquerry" width="60" height="60"/>
+  <img src="https://github.com/user-attachments/assets/52f34a30-5ed1-4ee0-8238-80c622295bd4" alt="idosell" width="60" height="60"/>
 
 
 <br>
