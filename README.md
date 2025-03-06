@@ -21,9 +21,14 @@ Currently employed at Brands Manago, working on e-commerce projects, collaborati
     <div>   
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>
-    <img src="https://github.com/Krzysztofe/Krzysztofe/assets/96065197/65f9145f-3db3-4e28-ae3f-78d8822bc1cb" width="40" height="40"/>
- <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> 
- <img src="https://github.com/Krzysztofe/Krzysztofe/assets/96065197/9c9c870e-5d2c-4d78-b880-b194124547ef" alt="tailwind" width="40" height="40"/> 
+    <img src="https://github.com/Krzysztofe/Krzysztofe/assets/96065197/65f9145f-3db3-4e28-ae3f-78d8822bc1cb" width="60" height="60"/>
+
+
+      
+ <img src="https://github.com/user-attachments/assets/d4311a2a-77d8-403d-b762-6db92cb8e1a5" alt="tailwind" width="100" height="30"/> 
+
+
+      
   <img src = "https://github.com/Krzysztofe/Krzysztofe/assets/96065197/8f07f96d-8bf6-40d9-9365-93228d32d792" width="40" height="40"/>
 
   </div>
