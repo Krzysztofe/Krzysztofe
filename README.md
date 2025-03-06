@@ -63,7 +63,9 @@ Currently employed at Brands Manago, working on e-commerce projects, collaborati
 
 <div>
   <img src="https://github.com/user-attachments/assets/5b5c892c-43cf-413b-810e-fcd2fc71cfdc" alt="prisma" width="120" height="40"/>  
-  <img src="https://github.com/user-attachments/assets/60c88611-39fb-4739-8663-fcbb7c8d5bf5" alt="sqlite" width="120" height="40"/>  
+  
+  <img src="https://github.com/user-attachments/assets/c14a07c2-4be4-40e4-af4b-b486b438bccf" alt="sqlite" width="120" height="50"/>  
+
 
 
 
