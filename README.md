@@ -41,6 +41,11 @@ Currently employed at Brands Manago, working on e-commerce projects, collaborati
 
   <img src="https://user-images.githubusercontent.com/96065197/208308915-21c4016e-4e01-415c-884c-84ca2ed033cc.png" alt="rquerry" width="60" height="40"/> 
   <img src="https://user-images.githubusercontent.com/96065197/208310354-6e9cc72b-bddf-45b1-bf7e-14a9d89543d5.png" alt="rquerry" width="60" height="40"/>
+<img src="https://github.com/user-attachments/assets/011fefe7-e127-4605-bb46-cb27fd7e24d7" alt="zod" width="60" height="40"/>
+
+
+
+  
 </div>
 <br>
   <img src="https://github.com/user-attachments/assets/034f5a59-9419-497b-bbd2-8b625d504560" alt="next" width="100" height="30"/>
@@ -53,6 +58,17 @@ Currently employed at Brands Manago, working on e-commerce projects, collaborati
 
   <img src="https://github.com/user-attachments/assets/8db776a6-8d5b-4fd4-8d7e-900cbd467565" alt="rquerry" width="100" height="50"/>
 </div>
+<br>
+
+
+<div>
+  <img src="https://github.com/user-attachments/assets/5b5c892c-43cf-413b-810e-fcd2fc71cfdc" alt="prisma" width="120" height="40"/>  
+  <img src="https://github.com/user-attachments/assets/60c88611-39fb-4739-8663-fcbb7c8d5bf5" alt="sqlite" width="120" height="40"/>  
+
+
+
+</div>
+
 <br>
 
   <img src="https://github.com/user-attachments/assets/52f34a30-5ed1-4ee0-8238-80c622295bd4" alt="idosell" width="60" height="60"/>
