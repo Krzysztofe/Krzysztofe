@@ -109,7 +109,7 @@ Currently employed at Brands Manago, working on e-commerce projects, collaborati
 
  ### Each attached project description contains a link to the repository with more information.
 
- <a href = "http://vps-2c27257b.vps.ovh.ca:8090/"> Demo: "Voting pattern" - Next/TS, Prisma, SqLite</a> is full-stack application developed on behalf of a trade union for 
+ <a href = "http://vps-2c27257b.vps.ovh.ca:8090/"> Demo: "Voting pattern" - Next/TS, Prisma, SQLite</a> is full-stack application developed on behalf of a trade union for 
 conducting elections among employees for the position of social labor inspector. <a href = "https://github.com/Krzysztofe/voting-pattern/tree/main"> "Voting pattern" --> Repository </a>
 
  <div align="center">
