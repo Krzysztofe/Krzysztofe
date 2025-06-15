@@ -37,6 +37,9 @@ Currently employed at Brands Manago, working on e-commerce projects, collaborati
    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> 
     <img src="https://github.com/Krzysztofe/Krzysztofe/assets/96065197/f4e98b12-4438-4ca3-850e-2072a310bad3" alt="OOP" width="40" height="40"/> 
+    <img src="https://github.com/user-attachments/assets/db0322c3-ff1a-45e6-9c89-0a81baee9150" alt="MVC" width="80" height="40"/> 
+
+
 
 <br>
    <br>
@@ -54,10 +57,11 @@ Currently employed at Brands Manago, working on e-commerce projects, collaborati
 </div>
 <br>
   <img src="https://github.com/user-attachments/assets/034f5a59-9419-497b-bbd2-8b625d504560" alt="next" width="100" height="30"/>
+    <img src="https://github.com/user-attachments/assets/5b5c892c-43cf-413b-810e-fcd2fc71cfdc" alt="prisma" width="120" height="40"/>  
+  
+  <img src="https://github.com/user-attachments/assets/c14a07c2-4be4-40e4-af4b-b486b438bccf" alt="sqlite" width="120" height="50"/>  
   <br>
 
-
-   <img src="https://github.com/user-attachments/assets/14c0f634-0588-4b9d-8f8b-0753a9ed57f2" alt="sapui5" width="150" height="80"/>
   <br>
 <br>
 <div>
@@ -70,19 +74,12 @@ Currently employed at Brands Manago, working on e-commerce projects, collaborati
 <br>
 
 
-<div>
-  <img src="https://github.com/user-attachments/assets/5b5c892c-43cf-413b-810e-fcd2fc71cfdc" alt="prisma" width="120" height="40"/>  
-  
-  <img src="https://github.com/user-attachments/assets/c14a07c2-4be4-40e4-af4b-b486b438bccf" alt="sqlite" width="120" height="50"/>  
 
-
-
-
-</div>
 
 <br>
 
   <img src="https://github.com/user-attachments/assets/52f34a30-5ed1-4ee0-8238-80c622295bd4" alt="idosell" width="60" height="60"/>
+   <img src="https://github.com/user-attachments/assets/14c0f634-0588-4b9d-8f8b-0753a9ed57f2" alt="sapui5" width="150" height="80"/>
 
 
 <br>
@@ -107,9 +104,19 @@ Currently employed at Brands Manago, working on e-commerce projects, collaborati
 
  ### Within my repository, you will find various projects. Among them, I would like to highlight three projects, which are pinned below. :point_down: :point_down: :point_down:
 
- ### The following three projects are commercial and were commissioned by a labor union. They were created after consultations with union activists, and the 'Declaration' project was additionally reviewed by a union lawyer. All projects are in practical use.
+ ### The following projects are commercial and were commissioned by a labor union. They were created after consultations with union activists, and the 'Declaration' project was additionally reviewed by a union lawyer. All projects are in practical use.
 
  ### Each attached project description contains a link to the repository with more information.
+
+ <a href = "http://vps-2c27257b.vps.ovh.ca:8090/"> Demo: "Voting pattern" - Next/TS, Prisma, SqLite</a> is full-stack application developed on behalf of a trade union for 
+conducting elections among employees for the position of social labor inspector. <a href = "https://github.com/Krzysztofe/voting-pattern/tree/main"> "Voting pattern" --> Repository </a>
+
+ <div align="center">
+  <img src="https://github.com/user-attachments/assets/162225ad-168b-4e55-8402-9a40e334392a" alt="html5" width="400" height="350" /> 
+</div> 
+
+ </br>
+ 
 
  <a href = "https://skladki.ozzip.pl/"> Demo: "Contributions" - JS/TS</a> is commercial project for tracking worker’s union membership contribtions. <a href = "https://github.com/Krzysztofe/contributions"> "Contributions" --> Repository </a>
 
