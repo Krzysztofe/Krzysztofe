@@ -57,9 +57,7 @@ Currently employed at Brands Manago, working on e-commerce projects, collaborati
 </div>
 <br>
   <img src="https://github.com/user-attachments/assets/034f5a59-9419-497b-bbd2-8b625d504560" alt="next" width="100" height="30"/>
-    <img src="https://github.com/user-attachments/assets/5b5c892c-43cf-413b-810e-fcd2fc71cfdc" alt="prisma" width="100" height="30"/>  
   
-  <img src="https://github.com/user-attachments/assets/c14a07c2-4be4-40e4-af4b-b486b438bccf" alt="sqlite" width="80" height="30"/>  
   <br>
 
   <br>
@@ -78,10 +76,15 @@ Currently employed at Brands Manago, working on e-commerce projects, collaborati
 <br>
 
   <img src="https://github.com/user-attachments/assets/0a32bb38-ddc0-4685-b0a7-e8279db326f4" alt="node" width="60" height="60"/>
-  <img src="https://github.com/user-attachments/assets/275918d2-ec98-4930-b1a5-4984b6ed955a" alt="node" width="100" height="100"/>  
-  <img src="https://github.com/user-attachments/assets/f6e220b3-0d9e-45d9-9d85-d0a0caa0b42c" alt="node" width="100" height="100"/>
-  <img src="https://github.com/user-attachments/assets/ed4d55d1-ecd6-4340-bb31-0b4b03d3a84b" alt="node" width="80" height="60"/>
+  <img src="https://github.com/user-attachments/assets/275918d2-ec98-4930-b1a5-4984b6ed955a" alt="express" width="100" height="100"/>  
+  <img src="https://github.com/user-attachments/assets/ed4d55d1-ecd6-4340-bb31-0b4b03d3a84b" alt="jwt" width="80" height="60"/>
 
+<br>
+  <img src="https://github.com/user-attachments/assets/5edf0df7-5511-47b9-97bc-11ac793b541b" alt="mongoo" width="100" height="40"/>
+  <img src="https://github.com/user-attachments/assets/f6e220b3-0d9e-45d9-9d85-d0a0caa0b42c" alt="mongoose" width="100" height="40"/>
+  <img src="https://github.com/user-attachments/assets/c14a07c2-4be4-40e4-af4b-b486b438bccf" alt="sqlite" width="80" height="30"/> 
+   <img src="https://github.com/user-attachments/assets/5b5c892c-43cf-413b-810e-fcd2fc71cfdc" alt="prisma" width="100" height="30"/>  
+  <img src="https://github.com/user-attachments/assets/ddd2e258-2219-4d3b-82a9-9daafe633d45" alt="firebase" width="100" height="50"/> 
 
 <br>
 
@@ -92,18 +95,21 @@ Currently employed at Brands Manago, working on e-commerce projects, collaborati
 <br>
 
   <div>
-   <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> 
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
     <img src="https://github.com/user-attachments/assets/e9ac52e0-52fa-46de-a28f-869f5179d306" alt="gitlab" width="40" height="40"/> 
-    <img src="https://github.com/Krzysztofe/Krzysztofe/assets/96065197/77c32d08-fd0b-4691-8a53-34497044fe1b" alt="git" width="70" height="40"/>
- <img src= "https://github.com/Krzysztofe/Krzysztofe/assets/96065197/f245503f-a7f1-42b8-ba55-cb84551962c6" alt="git" width="80" height="30"/>
+ <img src= "https://github.com/Krzysztofe/Krzysztofe/assets/96065197/f245503f-a7f1-42b8-ba55-cb84551962c6" alt="swager" width="80" height="30"/>
+     <img src= "https://github.com/user-attachments/assets/674cce04-5a52-45f4-801d-70aacad1cd6f" alt="postman" width="60" height="60"/>
 <img src= "https://github.com/Krzysztofe/Krzysztofe/assets/96065197/7292dc1f-3e6f-4f57-83fe-e3f22a697e79" alt="git" width="40" height="35"/>
-     <img src= "https://github.com/user-attachments/assets/1f17bca0-bd7a-494e-bc9f-ec78acfe421a" alt="git" width="80" height="45"/>
+  
+
 
 
  <img src= "https://github.com/user-attachments/assets/1103773e-c36f-407f-9fe4-9b8e1556a5b8" alt="git" width="40" height="40"/>
     
   </div>
+<br>
+    <img src="https://github.com/Krzysztofe/Krzysztofe/assets/96065197/77c32d08-fd0b-4691-8a53-34497044fe1b" alt="jira" width="70" height="40"/>
+    <img src= "https://github.com/user-attachments/assets/1f17bca0-bd7a-494e-bc9f-ec78acfe421a" alt="clickup" width="80" height="45"/>
 </p>   
  
  <br><br><br>
