@@ -65,8 +65,6 @@ Currently employed at Brands Manago, working on e-commerce projects, collaborati
 <div>
   <img src="https://github.com/user-attachments/assets/75d45999-8498-45fc-b41d-f12406cccec0" alt="rquerry" width="50" height="50"/>   
 
-
-
   <img src="https://github.com/user-attachments/assets/8db776a6-8d5b-4fd4-8d7e-900cbd467565" alt="rquerry" width="100" height="50"/>
 </div>
 <br>
@@ -77,7 +75,12 @@ Currently employed at Brands Manago, working on e-commerce projects, collaborati
 
   <img src="https://github.com/user-attachments/assets/0a32bb38-ddc0-4685-b0a7-e8279db326f4" alt="node" width="60" height="60"/>
   <img src="https://github.com/user-attachments/assets/275918d2-ec98-4930-b1a5-4984b6ed955a" alt="express" width="100" height="100"/>  
+
+  <br>
+
   <img src="https://github.com/user-attachments/assets/ed4d55d1-ecd6-4340-bb31-0b4b03d3a84b" alt="jwt" width="80" height="60"/>
+  <img src="https://github.com/user-attachments/assets/f4516ba8-2dca-4da9-9462-5a3054811460" alt="rest" width="100" height="80"/>
+
 
 <br>
   <img src="https://github.com/user-attachments/assets/5edf0df7-5511-47b9-97bc-11ac793b541b" alt="mongoo" width="100" height="40"/>
