@@ -121,7 +121,7 @@ Currently employed at Brands Manago, working on e-commerce projects, collaborati
 
  ### Each attached project description contains a link to the repository with more information.
 
- <a href = "http://vps-2c27257b.vps.ovh.ca:8090/"> Demo: "Voting pattern" - Next/TS, Prisma, SQLite</a> is full-stack application developed on behalf of a trade union for 
+ <a href = "http://vps-2c27257b.vps.ovh.ca:8090/"> Demo: "Voting pattern" - Next/TS, Prisma, SQLite</a> is full-stack commercial application developed on behalf of a trade union for 
 conducting elections among employees for the position of social labor inspector. <a href = "https://github.com/Krzysztofe/voting-pattern/tree/main"> "Voting pattern" --> Repository </a>
 
  <div align="center">
@@ -139,7 +139,7 @@ conducting elections among employees for the position of social labor inspector.
 
  </br>
 
- <a href = "https://krzysztofe.github.io/godziny/"> Demo: "Godziny" - React/TS</a> is commercial project designed for the presidium of a trade union's workers council to plan the so-called union hours.  <a href = "https://github.com/Krzysztofe/godziny"> "Godziny" --> Repository</a>
+ <a href = "https://krzysztofe.github.io/godziny/"> Demo: "Godziny" - React/TS, Express, Mongoose</a> is full-stack application commercial project designed for the presidium of a trade union's workers council to plan the so-called union hours.  <a href = "https://github.com/Krzysztofe/godziny"> "Godziny" --> Repository</a>
 
  <div align="center">
 <img src="https://github.com/Krzysztofe/Krzysztofe/assets/96065197/5f4d71f5-fac8-457f-8c31-a30e38c3a8da" width="500" alt="Desktop Screenshot" margin="20"> 
