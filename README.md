@@ -79,7 +79,7 @@ Currently employed at Brands Manago, working on e-commerce projects, collaborati
   <img src="https://github.com/user-attachments/assets/275918d2-ec98-4930-b1a5-4984b6ed955a" alt="express" width="100" height="100"/>  
 
   <br>
-
+ <br>
   <img src="https://github.com/user-attachments/assets/ed4d55d1-ecd6-4340-bb31-0b4b03d3a84b" alt="jwt" width="80" height="60"/>
   <img src="https://github.com/user-attachments/assets/f4516ba8-2dca-4da9-9462-5a3054811460" alt="rest" width="100" height="80"/>
 <br>
