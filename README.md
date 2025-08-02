@@ -92,14 +92,17 @@ Currently employed at Brands Manago, working on e-commerce projects, collaborati
   <img src="https://github.com/user-attachments/assets/ddd2e258-2219-4d3b-82a9-9daafe633d45" alt="firebase" width="100" height="50"/> 
 
 <br>
-
+<br>
+<br>
+<br>
   <div>
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
     <img src="https://github.com/user-attachments/assets/e9ac52e0-52fa-46de-a28f-869f5179d306" alt="gitlab" width="40" height="40"/> 
  <img src= "https://github.com/Krzysztofe/Krzysztofe/assets/96065197/f245503f-a7f1-42b8-ba55-cb84551962c6" alt="swager" width="80" height="30"/>
      <img src= "https://github.com/user-attachments/assets/674cce04-5a52-45f4-801d-70aacad1cd6f" alt="postman" width="60" height="60"/>
 <img src= "https://github.com/Krzysztofe/Krzysztofe/assets/96065197/7292dc1f-3e6f-4f57-83fe-e3f22a697e79" alt="git" width="40" height="35"/>
-  
+<img src="https://github.com/user-attachments/assets/4388bcb2-699b-43a0-bca8-c75762ee5ff3" width="80" height="40" alt="docker-container-auto-start" />
+
 
 
 
