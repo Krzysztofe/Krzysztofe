@@ -142,7 +142,7 @@ conducting elections among employees for the position of social labor inspector.
 
  </br>
 
- <a href = "https://krzysztofe.github.io/godziny/"> Demo: "Godziny" - React/TS, Express, Mongoose</a> is full-stack application commercial project designed for the presidium of a trade union's workers council to plan the so-called union hours.  <a href = "https://github.com/Krzysztofe/godziny"> "Godziny frontend" --> Repository</a>,
+ <a href = "https://krzysztofe.github.io/godziny/"> Demo: "Godziny" - React/TS, Express, Mongoose, Docker</a> is full-stack application commercial project designed for the presidium of a trade union's workers council to plan the so-called union hours.  <a href = "https://github.com/Krzysztofe/godziny"> "Godziny frontend" --> Repository</a>,
  <a href = "https://github.com/Krzysztofe/godziny-server"> "Godziny backend" --> Repository</a>
 
  <div align="center">
