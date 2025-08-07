@@ -151,7 +151,7 @@ conducting elections among employees for the position of social labor inspector.
 
  
  
- <a href = "https://deklaracja.ozzip.pl/"> Production: "Deklaracja" - React/TS</a> is a commercial project created for the Workers' Union's use. Thanks to the application, employees can join the trade union.  <a href = "https://github.com/Krzysztofe/deklaracja"> "Deklaracja" --> Repository</a>
+ <a href = "https://deklaracja.ozzip.pl/"> Production: "Deklaracja" - React/TS, react testing library, jest</a> is a commercial project created for the Workers' Union's use. Thanks to the application, employees can join the trade union.  <a href = "https://github.com/Krzysztofe/deklaracja"> "Deklaracja" --> Repository</a>
 
   <div align="center">
     
