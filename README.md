@@ -118,12 +118,18 @@ Currently employed at Brands Manago, working on e-commerce projects, collaborati
 
 
 
- ### Within my repository, you will find various projects. Among them, I would like to highlight three projects, which are pinned below. :point_down: :point_down: :point_down:
+ ### Within my repository, you will find various projects. Among them, I would like to highlight projects, which are pinned below. :point_down: :point_down: :point_down:
 
  ### The following projects are commercial and were commissioned by a labor union. They were created after consultations with union activists, and the 'Declaration' project was additionally reviewed by a union lawyer. All projects are in practical use.
 
  ### Each attached project description contains a link to the repository with more information.
 
+ </br>
+I am currently developing a full-stack application that supports trade union organizations by providing digital tools for collaboration, voting, and knowledge sharing. This project is funded through a grant received under the “TransferHub – inkubator innowacji społecznych w obszarze zatrudnienia 2.” program. <a href = "https://github.com/ozzip-dev/form-generator"> "Form generator" --> Repository </a>,  <a href = "https://form-generator.sliplane.app/"> Demo: "Form generator" - Next/TS, MongoDB</a>
+</br>
+ </br>
+ </br>
+ 
  <a href = "http://vps-2c27257b.vps.ovh.ca:8090/"> Demo: "Voting pattern" - Next/TS, Prisma, SQLite</a> is full-stack commercial application developed on behalf of a trade union for 
 conducting elections among employees for the position of social labor inspector. <a href = "https://github.com/Krzysztofe/voting-pattern/tree/main"> "Voting pattern" --> Repository </a>
 
