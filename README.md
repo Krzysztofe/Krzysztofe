@@ -130,7 +130,7 @@ I am currently developing a full-stack application that supports trade union org
  </br>
  </br>
  
- <a href = "http://vps-2c27257b.vps.ovh.ca:8090/"> Demo: "Voting pattern" - Next/TS, Prisma, SQLite</a> is full-stack commercial application developed on behalf of a trade union for 
+ <a href = "https://voting-pattern.vercel.app/"> Demo: "Voting pattern" - Next/TS, Prisma, SQLite</a> is full-stack commercial application developed on behalf of a trade union for 
 conducting elections among employees for the position of social labor inspector. <a href = "https://github.com/Krzysztofe/voting-pattern/tree/main"> "Voting pattern" --> Repository </a>
 
  <div align="center">
