@@ -127,9 +127,9 @@ Currently employed at Brands Manago, working on e-commerce projects, collaborati
  </br>
 I am currently developing a full-stack application that supports trade union organizations by providing digital tools for collaboration, voting, and knowledge sharing. This project is funded through a grant received under the “TransferHub – inkubator innowacji społecznych w obszarze zatrudnienia 2.” program. <a href = "https://github.com/ozzip-dev/form-generator"> "Form generator" --> Repository </a>,  <a href = "https://form-generator.sliplane.app/"> Demo: "Form generator" - Next/TS, MongoDB</a>
 
-
  </br>
- <div align="center">
+ </br>
+<div align="center">
  <img 
     src="https://github.com/user-attachments/assets/3d29f9aa-7fef-404c-ad07-5b1a1899e9eb" 
     alt="" 
@@ -137,6 +137,7 @@ I am currently developing a full-stack application that supports trade union org
     height="800"
     />
 </div>
+
 </br>
  </br>
  </br>
