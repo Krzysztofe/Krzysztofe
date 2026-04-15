@@ -115,6 +115,78 @@ Currently employed at Brands Manago, working on e-commerce projects, collaborati
  <br><br><br>
 
 
+<h2 align="center">🛠️ Languages & Tools</h2>
+
+<!-- FRONTEND -->
+<h3 align="left">Styles</h3>
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" width="40"/>
+  <img src="https://github.com/user-attachments/assets/d4311a2a-77d8-403d-b762-6db92cb8e1a5" width="60" height="50"/>
+  <img src="https://github.com/Krzysztofe/Krzysztofe/assets/96065197/65f9145f-3db3-4e28-ae3f-78d8822bc1cb" width="60" height="60"/>
+  <img src="https://github.com/user-attachments/assets/8fe5b292-4312-49f7-bb2f-fc57e1b7fe76" alt="shadcn" width="110" height="60"/>
+  <img src = "https://github.com/Krzysztofe/Krzysztofe/assets/96065197/8f07f96d-8bf6-40d9-9365-93228d32d792" width="40" height="40"/>
+</p>
+
+<!-- JS -->
+<h3 align="left">JavaScript & TypeScript</h3>
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40"/>
+</p>
+
+<!-- FRAMEWORKS -->
+<h3 align="left">Frameworks & Libraries</h3>
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" width="40"/>
+  <img src="https://github.com/Krzysztofe/Krzysztofe/assets/96065197/9c30411d-5146-46a2-9bbb-5b2e622b7fe0" width="80"/>
+  <img src="https://user-images.githubusercontent.com/96065197/208308915-21c4016e-4e01-415c-884c-84ca2ed033cc.png" width="60"/>
+  <img src="https://github.com/user-attachments/assets/011fefe7-e127-4605-bb46-cb27fd7e24d7" width="60"/>
+</p>
+
+<!-- NEXT -->
+<h3 align="left">Next.js</h3>
+<p align="left">
+  <img src="https://github.com/user-attachments/assets/034f5a59-9419-497b-bbd2-8b625d504560" width="100"/>
+</p>
+
+<!-- BACKEND -->
+<h3 align="left">Backend</h3>
+<p align="left">
+  <img src="https://github.com/user-attachments/assets/0a32bb38-ddc0-4685-b0a7-e8279db326f4" width="60"/>
+  <img src="https://github.com/user-attachments/assets/275918d2-ec98-4930-b1a5-4984b6ed955a" width="80"/>
+  <img src="https://github.com/user-attachments/assets/ed4d55d1-ecd6-4340-bb31-0b4b03d3a84b" width="70"/>
+</p>
+
+<!-- DATABASE -->
+<h3 align="left">Database</h3>
+<p align="left">
+  <img src="https://github.com/user-attachments/assets/5edf0df7-5511-47b9-97bc-11ac793b541b" width="90"/>
+  <img src="https://github.com/user-attachments/assets/f6e220b3-0d9e-45d9-9d85-d0a0caa0b42c" width="90"/>
+  <img src="https://github.com/user-attachments/assets/c14a07c2-4be4-40e4-af4b-b486b438bccf" width="70"/>
+  <img src="https://github.com/user-attachments/assets/5b5c892c-43cf-413b-810e-fcd2fc71cfdc" width="90"/>
+  <img src="https://github.com/user-attachments/assets/ddd2e258-2219-4d3b-82a9-9daafe633d45" width="90"/>
+</p>
+
+<!-- TOOLS -->
+<h3 align="left">Tools</h3>
+<p align="left">
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40"/>
+  <img src="https://github.com/user-attachments/assets/e9ac52e0-52fa-46de-a28f-869f5179d306" width="40"/>
+  <img src="https://github.com/user-attachments/assets/674cce04-5a52-45f4-801d-70aacad1cd6f" width="60"/>
+  <img src="https://github.com/user-attachments/assets/4388bcb2-699b-43a0-bca8-c75762ee5ff3" width="70"/>
+</p>
+
+<!-- PROJECT / WORK -->
+<h3 align="left">Other</h3>
+<p align="left">
+  <img src="https://github.com/user-attachments/assets/52f34a30-5ed1-4ee0-8238-80c622295bd4" width="60"/>
+  <img src="https://github.com/user-attachments/assets/14c0f634-0588-4b9d-8f8b-0753a9ed57f2" width="120"/>
+</p>
+
 
  ### Within my repository, you will find various projects. Among them, I would like to highlight projects, which are pinned below. :point_down: :point_down: :point_down:
 
