@@ -11,6 +11,7 @@ Currently employed at Brands Manago, working on e-commerce projects, collaborati
 <p align="left"> 
   
   <div>
+    
    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
    <img src="https://github.com/user-attachments/assets/7a953ff2-de68-4d2f-a455-e790ca6e9dbe" alt="css3" width="40" height="40"/> 
