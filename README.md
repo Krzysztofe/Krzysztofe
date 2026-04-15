@@ -7,113 +7,6 @@ Passionate and detail-oriented Frontend Developer with experience in developing 
 
 Currently employed at Brands Manago, working on e-commerce projects, collaborating with cross-functional teams, and optimizing web solutions. Successfully delivered multiple commercial projects for labor unions as a freelancer, covering membership tracking, working hours management, and online registration systems.
 
-<h2 align="left">Languages and tools I use:</h3>
-
-  
-  <p align="left">
-   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
-   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
-   <img src="https://github.com/user-attachments/assets/7a953ff2-de68-4d2f-a455-e790ca6e9dbe" alt="css3" width="40" height="40"/> 
-   <img src="https://github.com/user-attachments/assets/1c23069e-20d7-41ae-8cc9-8b26c480ae39" alt="css3" width="30" height="40"/> 
-  </p>
-      <br>
-    <div>   
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>
-    <img src="https://github.com/Krzysztofe/Krzysztofe/assets/96065197/65f9145f-3db3-4e28-ae3f-78d8822bc1cb" width="60" height="60"/>
-      
- <img src="https://github.com/user-attachments/assets/d4311a2a-77d8-403d-b762-6db92cb8e1a5" alt="tailwind" width="100" height="30"/> 
-
-
-      
-  <img src = "https://github.com/Krzysztofe/Krzysztofe/assets/96065197/8f07f96d-8bf6-40d9-9365-93228d32d792" width="40" height="40"/>
-   <img src="https://github.com/user-attachments/assets/8fe5b292-4312-49f7-bb2f-fc57e1b7fe76" alt="shadcn" width="110" height="60"/>
-
-  </div>
-  <br>
-<div>
-   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> 
-    <img src="https://github.com/Krzysztofe/Krzysztofe/assets/96065197/f4e98b12-4438-4ca3-850e-2072a310bad3" alt="OOP" width="40" height="40"/> 
-    <img src="https://github.com/user-attachments/assets/db0322c3-ff1a-45e6-9c89-0a81baee9150" alt="MVC" width="80" height="40"/> 
-
-
-
-<br>
-   <br>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/>  
-  <img src="https://github.com/Krzysztofe/Krzysztofe/assets/96065197/9c30411d-5146-46a2-9bbb-5b2e622b7fe0" alt="zustand" width="80" height="40"/> 
-
-  <img src="https://user-images.githubusercontent.com/96065197/208308915-21c4016e-4e01-415c-884c-84ca2ed033cc.png" alt="rquerry" width="60" height="40"/> 
-  <img src="https://user-images.githubusercontent.com/96065197/208310354-6e9cc72b-bddf-45b1-bf7e-14a9d89543d5.png" alt="rquerry" width="60" height="40"/>
-<img src="https://github.com/user-attachments/assets/011fefe7-e127-4605-bb46-cb27fd7e24d7" alt="zod" width="60" height="40"/>
-
-
-
-  
-</div>
-<br>
-  <img src="https://github.com/user-attachments/assets/034f5a59-9419-497b-bbd2-8b625d504560" alt="next" width="100" height="30"/>
-  
-  <br>
-
-  <br>
-<br>
-<div>
-  <img src="https://github.com/user-attachments/assets/75d45999-8498-45fc-b41d-f12406cccec0" alt="rquerry" width="50" height="50"/>   
-
-  <img src="https://github.com/user-attachments/assets/8db776a6-8d5b-4fd4-8d7e-900cbd467565" alt="rquerry" width="100" height="50"/>
-</div>
-<br>
-
-  <img src="https://github.com/user-attachments/assets/52f34a30-5ed1-4ee0-8238-80c622295bd4" alt="idosell" width="60" height="60"/>
-   <img src="https://github.com/user-attachments/assets/14c0f634-0588-4b9d-8f8b-0753a9ed57f2" alt="sapui5" width="150" height="80"/>
-
-
-<br>
-
-  <img src="https://github.com/user-attachments/assets/0a32bb38-ddc0-4685-b0a7-e8279db326f4" alt="node" width="60" height="60"/>
-  <img src="https://github.com/user-attachments/assets/275918d2-ec98-4930-b1a5-4984b6ed955a" alt="express" width="100" height="100"/>  
-
-  <br>
- <br>
-  <img src="https://github.com/user-attachments/assets/ed4d55d1-ecd6-4340-bb31-0b4b03d3a84b" alt="jwt" width="80" height="60"/>
-  <img src="https://github.com/user-attachments/assets/f4516ba8-2dca-4da9-9462-5a3054811460" alt="rest" width="100" height="80"/>
-<br>
-
-<br>
-  <img src="https://github.com/user-attachments/assets/5edf0df7-5511-47b9-97bc-11ac793b541b" alt="mongoo" width="100" height="40"/>
-  <img src="https://github.com/user-attachments/assets/f6e220b3-0d9e-45d9-9d85-d0a0caa0b42c" alt="mongoose" width="100" height="40"/>
-  <img src="https://github.com/user-attachments/assets/c14a07c2-4be4-40e4-af4b-b486b438bccf" alt="sqlite" width="80" height="30"/> 
-   <img src="https://github.com/user-attachments/assets/5b5c892c-43cf-413b-810e-fcd2fc71cfdc" alt="prisma" width="100" height="30"/>  
-  <img src="https://github.com/user-attachments/assets/ddd2e258-2219-4d3b-82a9-9daafe633d45" alt="firebase" width="100" height="50"/> 
-
-<br>
-<br>
-<br>
-<br>
-  <div>
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
-    <img src="https://github.com/user-attachments/assets/e9ac52e0-52fa-46de-a28f-869f5179d306" alt="gitlab" width="40" height="40"/> 
- <img src= "https://github.com/Krzysztofe/Krzysztofe/assets/96065197/f245503f-a7f1-42b8-ba55-cb84551962c6" alt="swager" width="80" height="30"/>
-     <img src= "https://github.com/user-attachments/assets/674cce04-5a52-45f4-801d-70aacad1cd6f" alt="postman" width="60" height="60"/>
-<img src= "https://github.com/Krzysztofe/Krzysztofe/assets/96065197/7292dc1f-3e6f-4f57-83fe-e3f22a697e79" alt="git" width="40" height="35"/>
-<img src="https://github.com/user-attachments/assets/4388bcb2-699b-43a0-bca8-c75762ee5ff3" width="80" height="40" alt="docker-container-auto-start" />
-
-
-
-
- <img src= "https://github.com/user-attachments/assets/1103773e-c36f-407f-9fe4-9b8e1556a5b8" alt="git" width="40" height="40"/>
-    
-  </div>
-<br>
-    <img src="https://github.com/Krzysztofe/Krzysztofe/assets/96065197/77c32d08-fd0b-4691-8a53-34497044fe1b" alt="jira" width="70" height="40"/>
-    <img src= "https://github.com/user-attachments/assets/1f17bca0-bd7a-494e-bc9f-ec78acfe421a" alt="clickup" width="80" height="45"/>
-</p>   
- 
- <br><br><br>
-
 
 <h2 align="center">🛠️ Languages & Tools</h2>
 
@@ -124,7 +17,7 @@ Currently employed at Brands Manago, working on e-commerce projects, collaborati
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" width="40"/>
-  <img src="https://github.com/user-attachments/assets/d4311a2a-77d8-403d-b762-6db92cb8e1a5" width="60" height="50"/>
+  <img src="https://github.com/user-attachments/assets/d4311a2a-77d8-403d-b762-6db92cb8e1a5" width="80" height="50"/>
   <img src="https://github.com/Krzysztofe/Krzysztofe/assets/96065197/65f9145f-3db3-4e28-ae3f-78d8822bc1cb" width="60" height="60"/>
   <img src="https://github.com/user-attachments/assets/8fe5b292-4312-49f7-bb2f-fc57e1b7fe76" alt="shadcn" width="110" height="60"/>
   <img src = "https://github.com/Krzysztofe/Krzysztofe/assets/96065197/8f07f96d-8bf6-40d9-9365-93228d32d792" width="40" height="40"/>
@@ -135,6 +28,8 @@ Currently employed at Brands Manago, working on e-commerce projects, collaborati
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40"/>
+  <img src="https://github.com/Krzysztofe/Krzysztofe/assets/96065197/f4e98b12-4438-4ca3-850e-2072a310bad3" alt="OOP" width="40" height="40"/> 
+  <img src="https://github.com/user-attachments/assets/db0322c3-ff1a-45e6-9c89-0a81baee9150" alt="MVC" width="80" height="40"/>
 </p>
 
 <!-- FRAMEWORKS -->
@@ -145,13 +40,19 @@ Currently employed at Brands Manago, working on e-commerce projects, collaborati
   <img src="https://github.com/Krzysztofe/Krzysztofe/assets/96065197/9c30411d-5146-46a2-9bbb-5b2e622b7fe0" width="80"/>
   <img src="https://user-images.githubusercontent.com/96065197/208308915-21c4016e-4e01-415c-884c-84ca2ed033cc.png" width="60"/>
   <img src="https://github.com/user-attachments/assets/011fefe7-e127-4605-bb46-cb27fd7e24d7" width="60"/>
+  <img src="https://user-images.githubusercontent.com/96065197/208310354-6e9cc72b-bddf-45b1-bf7e-14a9d89543d5.png" alt="formik" width="60"/>
+   <img src="https://github.com/user-attachments/assets/14c0f634-0588-4b9d-8f8b-0753a9ed57f2" width="120"/>
+   <img src="https://github.com/user-attachments/assets/034f5a59-9419-497b-bbd2-8b625d504560" width="100"/>
 </p>
 
-<!-- NEXT -->
-<h3 align="left">Next.js</h3>
+
+
+<h3 align="left">Tests</h3>
 <p align="left">
-  <img src="https://github.com/user-attachments/assets/034f5a59-9419-497b-bbd2-8b625d504560" width="100"/>
+   <img src="https://github.com/user-attachments/assets/75d45999-8498-45fc-b41d-f12406cccec0" alt="jests" width="50" height="50"/>   
+  <img src="https://github.com/user-attachments/assets/8db776a6-8d5b-4fd4-8d7e-900cbd467565" alt="rtl" width="100" height="50"
 </p>
+
 
 <!-- BACKEND -->
 <h3 align="left">Backend</h3>
@@ -159,6 +60,7 @@ Currently employed at Brands Manago, working on e-commerce projects, collaborati
   <img src="https://github.com/user-attachments/assets/0a32bb38-ddc0-4685-b0a7-e8279db326f4" width="60"/>
   <img src="https://github.com/user-attachments/assets/275918d2-ec98-4930-b1a5-4984b6ed955a" width="80"/>
   <img src="https://github.com/user-attachments/assets/ed4d55d1-ecd6-4340-bb31-0b4b03d3a84b" width="70"/>
+  <img src="https://github.com/user-attachments/assets/f4516ba8-2dca-4da9-9462-5a3054811460" alt="rest" width="100" height="80"/>
 </p>
 
 <!-- DATABASE -->
@@ -169,6 +71,8 @@ Currently employed at Brands Manago, working on e-commerce projects, collaborati
   <img src="https://github.com/user-attachments/assets/c14a07c2-4be4-40e4-af4b-b486b438bccf" width="70"/>
   <img src="https://github.com/user-attachments/assets/5b5c892c-43cf-413b-810e-fcd2fc71cfdc" width="90"/>
   <img src="https://github.com/user-attachments/assets/ddd2e258-2219-4d3b-82a9-9daafe633d45" width="90"/>
+  <img width="90" alt="postgres" src="https://github.com/user-attachments/assets/6ec7d49a-d59f-4491-bfe2-408883741921" />
+
 </p>
 
 <!-- TOOLS -->
@@ -178,13 +82,17 @@ Currently employed at Brands Manago, working on e-commerce projects, collaborati
   <img src="https://github.com/user-attachments/assets/e9ac52e0-52fa-46de-a28f-869f5179d306" width="40"/>
   <img src="https://github.com/user-attachments/assets/674cce04-5a52-45f4-801d-70aacad1cd6f" width="60"/>
   <img src="https://github.com/user-attachments/assets/4388bcb2-699b-43a0-bca8-c75762ee5ff3" width="70"/>
+  <img src= "https://github.com/Krzysztofe/Krzysztofe/assets/96065197/f245503f-a7f1-42b8-ba55-cb84551962c6" alt="swager" width="80"/>
+  <img src= "https://github.com/Krzysztofe/Krzysztofe/assets/96065197/7292dc1f-3e6f-4f57-83fe-e3f22a697e79" alt="vite" width="40" height="35"/>
+   <img src= "https://github.com/user-attachments/assets/1103773e-c36f-407f-9fe4-9b8e1556a5b8" alt="figma" width="40" height="40"/>
 </p>
 
 <!-- PROJECT / WORK -->
 <h3 align="left">Other</h3>
 <p align="left">
   <img src="https://github.com/user-attachments/assets/52f34a30-5ed1-4ee0-8238-80c622295bd4" width="60"/>
-  <img src="https://github.com/user-attachments/assets/14c0f634-0588-4b9d-8f8b-0753a9ed57f2" width="120"/>
+<img src="https://github.com/Krzysztofe/Krzysztofe/assets/96065197/77c32d08-fd0b-4691-8a53-34497044fe1b" alt="jira" width="70" height="40"/>
+  <img src= "https://github.com/user-attachments/assets/1f17bca0-bd7a-494e-bc9f-ec78acfe421a" alt="clickup" width="80" height="45"/>
 </p>
 
 
