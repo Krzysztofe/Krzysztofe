@@ -17,10 +17,10 @@ Currently employed at Brands Manago, working on e-commerce projects, collaborati
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" width="40"/>
-  <img src="https://github.com/user-attachments/assets/d4311a2a-77d8-403d-b762-6db92cb8e1a5" width="80" height="50"/>
-  <img src="https://github.com/Krzysztofe/Krzysztofe/assets/96065197/65f9145f-3db3-4e28-ae3f-78d8822bc1cb" width="60" height="60"/>
-  <img src="https://github.com/user-attachments/assets/8fe5b292-4312-49f7-bb2f-fc57e1b7fe76" alt="shadcn" width="110" height="60"/>
-  <img src = "https://github.com/Krzysztofe/Krzysztofe/assets/96065197/8f07f96d-8bf6-40d9-9365-93228d32d792" width="40" height="40"/>
+  <img src="https://github.com/user-attachments/assets/d4311a2a-77d8-403d-b762-6db92cb8e1a5" width="80"/>
+  <img src="https://github.com/Krzysztofe/Krzysztofe/assets/96065197/65f9145f-3db3-4e28-ae3f-78d8822bc1cb" width="60" />
+  <img src="https://github.com/user-attachments/assets/8fe5b292-4312-49f7-bb2f-fc57e1b7fe76" alt="shadcn" width="110" />
+  <img src = "https://github.com/Krzysztofe/Krzysztofe/assets/96065197/8f07f96d-8bf6-40d9-9365-93228d32d792" width="40" />
 </p>
 
 <!-- JS -->
@@ -28,8 +28,8 @@ Currently employed at Brands Manago, working on e-commerce projects, collaborati
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40"/>
-  <img src="https://github.com/Krzysztofe/Krzysztofe/assets/96065197/f4e98b12-4438-4ca3-850e-2072a310bad3" alt="OOP" width="40" height="40"/> 
-  <img src="https://github.com/user-attachments/assets/db0322c3-ff1a-45e6-9c89-0a81baee9150" alt="MVC" width="80" height="40"/>
+  <img src="https://github.com/Krzysztofe/Krzysztofe/assets/96065197/f4e98b12-4438-4ca3-850e-2072a310bad3" alt="OOP" width="40"/> 
+  <img src="https://github.com/user-attachments/assets/db0322c3-ff1a-45e6-9c89-0a81baee9150" alt="MVC" width="80" />
 </p>
 
 <!-- FRAMEWORKS -->
@@ -49,8 +49,8 @@ Currently employed at Brands Manago, working on e-commerce projects, collaborati
 
 <h3 align="left">Tests</h3>
 <p align="left">
-   <img src="https://github.com/user-attachments/assets/75d45999-8498-45fc-b41d-f12406cccec0" alt="jests" width="50" height="50"/>   
-  <img src="https://github.com/user-attachments/assets/8db776a6-8d5b-4fd4-8d7e-900cbd467565" alt="rtl" width="100" height="50"
+   <img src="https://github.com/user-attachments/assets/75d45999-8498-45fc-b41d-f12406cccec0" alt="jests" width="50"/>   
+  <img src="https://github.com/user-attachments/assets/8db776a6-8d5b-4fd4-8d7e-900cbd467565" alt="rtl" width="100" />
 </p>
 
 
@@ -60,7 +60,7 @@ Currently employed at Brands Manago, working on e-commerce projects, collaborati
   <img src="https://github.com/user-attachments/assets/0a32bb38-ddc0-4685-b0a7-e8279db326f4" width="60"/>
   <img src="https://github.com/user-attachments/assets/275918d2-ec98-4930-b1a5-4984b6ed955a" width="80"/>
   <img src="https://github.com/user-attachments/assets/ed4d55d1-ecd6-4340-bb31-0b4b03d3a84b" width="70"/>
-  <img src="https://github.com/user-attachments/assets/f4516ba8-2dca-4da9-9462-5a3054811460" alt="rest" width="100" height="80"/>
+  <img src="https://github.com/user-attachments/assets/f4516ba8-2dca-4da9-9462-5a3054811460" alt="rest" width="100"/>
 </p>
 
 <!-- DATABASE -->
@@ -83,16 +83,16 @@ Currently employed at Brands Manago, working on e-commerce projects, collaborati
   <img src="https://github.com/user-attachments/assets/674cce04-5a52-45f4-801d-70aacad1cd6f" width="60"/>
   <img src="https://github.com/user-attachments/assets/4388bcb2-699b-43a0-bca8-c75762ee5ff3" width="70"/>
   <img src= "https://github.com/Krzysztofe/Krzysztofe/assets/96065197/f245503f-a7f1-42b8-ba55-cb84551962c6" alt="swager" width="80"/>
-  <img src= "https://github.com/Krzysztofe/Krzysztofe/assets/96065197/7292dc1f-3e6f-4f57-83fe-e3f22a697e79" alt="vite" width="40" height="35"/>
-   <img src= "https://github.com/user-attachments/assets/1103773e-c36f-407f-9fe4-9b8e1556a5b8" alt="figma" width="40" height="40"/>
+  <img src= "https://github.com/Krzysztofe/Krzysztofe/assets/96065197/7292dc1f-3e6f-4f57-83fe-e3f22a697e79" alt="vite" width="40"/>
+   <img src= "https://github.com/user-attachments/assets/1103773e-c36f-407f-9fe4-9b8e1556a5b8" alt="figma" width="40" />
 </p>
 
 <!-- PROJECT / WORK -->
 <h3 align="left">Other</h3>
 <p align="left">
   <img src="https://github.com/user-attachments/assets/52f34a30-5ed1-4ee0-8238-80c622295bd4" width="60"/>
-<img src="https://github.com/Krzysztofe/Krzysztofe/assets/96065197/77c32d08-fd0b-4691-8a53-34497044fe1b" alt="jira" width="70" height="40"/>
-  <img src= "https://github.com/user-attachments/assets/1f17bca0-bd7a-494e-bc9f-ec78acfe421a" alt="clickup" width="80" height="45"/>
+<img src="https://github.com/Krzysztofe/Krzysztofe/assets/96065197/77c32d08-fd0b-4691-8a53-34497044fe1b" alt="jira" width="70" />
+  <img src= "https://github.com/user-attachments/assets/1f17bca0-bd7a-494e-bc9f-ec78acfe421a" alt="clickup" width="80" />
 </p>
 
 
@@ -112,7 +112,6 @@ I am currently developing a full-stack application that supports trade union org
     src="https://github.com/user-attachments/assets/3d29f9aa-7fef-404c-ad07-5b1a1899e9eb" 
     alt="" 
     width="400" 
-    height="800"
     />
 </div>
 
